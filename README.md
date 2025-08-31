@@ -5,7 +5,7 @@
 ### 環境構築
 Dockerビルド
 
-git clone git@github.com:estra-inc/confirmation-test-contact-form.git
+git clone git@github.com:estra-inc/confirmation-test-contact-form.git　←変える
 
 DockerDesktopアプリを立ち上げる
 docker-compose up -d --build
